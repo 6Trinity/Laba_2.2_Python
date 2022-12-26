@@ -1,4 +1,4 @@
-import math
+
 import sys
 
 if __name__ == '__main__': n = float(input("Введите день недели: "))
